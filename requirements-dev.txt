@@ -1,0 +1,18 @@
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0      # Test coverage reporting
+
+# Debugging/Visualization
+matplotlib==3.7.1      # Plotting for debug views
+jupyter==1.0.0         # Notebook experimentation
+
+# Documentation
+sphinx==7.2.6          # Docs generation
+sphinx-rtd-theme==1.3.0
+
+# Build Tools
+twine==4.0.2           # PyPI package upload
+build==0.10.0          # PEP 517 compliant builds
+
+# QR Generation (Optional)
+qrcode==7.4.2
