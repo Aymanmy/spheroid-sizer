@@ -1,0 +1,19 @@
+# Core Requirements
+opencv-python>=4.5.5,<5.0.0       # Image processing and contour detection
+numpy>=1.21.0,<2.0.0              # Array operations and math
+pandas>=1.3.0,<2.0.0              # Data analysis and Excel export
+Pillow>=9.0.0,<10.0.0             # Image handling (Tkinter compatibility)
+scikit-image>=0.18.0,<0.20.0      # Advanced image metrics (optional)
+
+# GUI & Utilities
+tk>=0.1.0                          # Built-in Python (no install needed)
+pyperclip>=1.8.0,<2.0.0            # Clipboard operations
+xlsxwriter>=3.0.0,<4.0.0           # Excel export formatting
+
+# Development Extras (optional)
+matplotlib>=3.4.0,<4.0.0           # Visualization (for debug plots)
+qrcode>=7.0,<8.0                   # Donation QR generation
+python-dotenv>=0.19.0,<1.0.0       # Environment variables (for config)
+
+# Testing
+pytest>=7.0.0,<8.0.0               # Test framework (optional)
