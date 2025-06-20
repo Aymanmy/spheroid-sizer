@@ -1,0 +1,35 @@
+Spheroid Sizer - Automated Spheroid Analysis Tool
+Copyright (C) 2023 [Agebril]
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+=== Additional Terms ===
+
+1. Donation Encouragement:
+   - The developers invite (but do not require) voluntary donations 
+     to support the project at: [https://paypal.me/AGSpheroidsizer]
+   - Donations do not grant special rights or privileges.
+
+2. Liability Protection:
+   - In no event shall the authors or copyright holders be liable
+     for any damages arising from the use of this software.
+   - Users assume all risk when executing this program.
+
+3. Copyleft Compliance:
+   - Any modified versions must prominently retain:
+     a) This license with donation clause intact
+     b) Original copyright notice
+     c) All liability disclaimers
+
+For the full GNU GPLv3 text, visit: https://www.gnu.org/licenses/gpl-3.0.en.html
