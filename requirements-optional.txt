@@ -1,0 +1,8 @@
+# Advanced Image Metrics
+scikit-image==0.21.0   # For watershed/edge detection enhancements
+
+# GPU Acceleration (if available)
+opencv-contrib-python==4.8.0  # With CUDA support
+
+# Database Export
+sqlalchemy==2.0.21     # For SQL output option
